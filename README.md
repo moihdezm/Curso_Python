@@ -25,3 +25,18 @@ En esta parte del curso veremos los elementos básicos del lenguaje y daremos lo
    * [Funciones y Modulos](1.%20Python_Basico/4.Funciones%20y%20modulos.ipynb)
    * [Trabajo con ficheros](1.%20Python_Basico/5.Trabajo%20con%20ficheros.ipynb)
     
+* **Numpy:** 
+
+<div align="center">
+   <a href="https://github.com/AfiQuants/Curso_Python/tree/main/2.%20Numpy/">
+   <img src="https://miro.medium.com/max/10944/1*VsLoTh0u7dUgmk7socqO-A.jpeg">
+   </a>
+</div>
+
+En esta parte del curso veremos una de las librerías básicas para el análisis numérico en python, **Numpy**; aprenderemos:
+
+   * [Introducción a Numpy](2.%20Numpy/1.%20La%20base%20de%20NumPy%20-%20ndarray.ipynb)
+   * [Operaciones básicas](2.%20Numpy/2.%20Operaciones%20sobre%20ndarrays.ipynb)
+   * [Ficheros](2.%20Numpy/3.%20Entrada%20y%20salida%20de%20ficheros.ipynb)
+   * [Álgebra y Números Aleatorios](2.%20Numpy/4.%20Álgebra%20lineal%20y%20generación%20de%20numeros%20aleatorios.ipynb)
+    
