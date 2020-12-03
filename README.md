@@ -135,6 +135,6 @@ En caso de cualquier duda o aclaración adicional, podéis contactar con nosotro
 ¡Esperemos que os haya sido útil !
 
 <div align="center">
-   <img src="https://blog.sagitaz.com/wp-content/uploads/2015/11/gracias.jpg">
    <a href="https://www.youtube.com/watch?v=wJO-MTh6NNo">
+   <img src="https://blog.sagitaz.com/wp-content/uploads/2015/11/gracias.jpg">
 </div>
