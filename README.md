@@ -126,7 +126,7 @@ En caso de cualquier duda o aclaración adicional, podéis contactar con nosotro
          <a href="https://linkedin.com/in/jos%C3%A9-javier-calder%C3%B3n-coronado-698b41b1/">
          <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="150">
       <br>
-         <em style="color: grey">Linkedin<br>Javier Calderón Coronado</em>
+         <em style="color: grey">Linkedin<br>Javier Calderón<br> Coronado</em>
       </p> 
    </td>
    </tr></table>
@@ -136,4 +136,5 @@ En caso de cualquier duda o aclaración adicional, podéis contactar con nosotro
 
 <div align="center">
    <img src="https://blog.sagitaz.com/wp-content/uploads/2015/11/gracias.jpg">
+   <a href="https://www.youtube.com/watch?v=wJO-MTh6NNo">
 </div>
