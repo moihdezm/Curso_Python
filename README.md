@@ -63,17 +63,9 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
 ## Contacta con nosotros
 En caso de cualquier duda o aclaración adicional, podéis contactar con nosotros libremente:
 
-<div class="row">
-  <div class="column">
-    <img src="img_snow.jpg" alt="Snow" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_forest.jpg" alt="Forest" style="width:100%">
-  </div>
-  <div class="column">
-    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
-  </div>
-</div>
+| Manuel Rueda Álvaro      | Javier Calderón Coronado      |
+|------------|-------------|
+| <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="250"> | <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="250"> |
 
 ¡Esperemos que os haya sido útil !
 
