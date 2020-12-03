@@ -85,24 +85,26 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
    
 Por último, queremos recomendaros que, para cualquier duda que podáis tener, uséis los **omnipotentes**:
 
-<table><tr>
-<td> 
-   <p align="center" style="padding: 10px">
-      <a href="https://www.google.com/">
-      <img src="https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" width="320">
-   <br>
-      <em style="color: grey">Google</em>
-   </p> 
-</td>
-<td> 
-   <p align="center" style="padding: 10px">
-      <a href="https://stackoverflow.com/">
-      <img src="https://apifriends.com/wp-content/uploads/2018/04/stackoverflow.png" width="320">
-   <br>
-      <em style="color: grey">StackOverflow</em>
-   </p> 
-</td>
-</tr></table>
+<div align='center'>
+   <table><tr>
+   <td> 
+      <p align="center" style="padding: 10px">
+         <a href="https://www.google.com/">
+         <img src="https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" width="320">
+      <br>
+         <em style="color: grey">Google</em>
+      </p> 
+   </td>
+   <td> 
+      <p align="center" style="padding: 10px">
+         <a href="https://stackoverflow.com/">
+         <img src="https://apifriends.com/wp-content/uploads/2018/04/stackoverflow.png" width="320">
+      <br>
+         <em style="color: grey">StackOverflow</em>
+      </p> 
+   </td>
+   </tr></table>
+</div>
 
 Esperamos que todo el contenido os haya resultado de utilidad.
 
@@ -110,10 +112,24 @@ Esperamos que todo el contenido os haya resultado de utilidad.
 En caso de cualquier duda o aclaración adicional, podéis contactar con nosotros libremente; nuestros perfiles de **Linkedin**:
 
 <div align='center'>
-
-   | Manuel Rueda Álvaro      | Javier Calderón<br>Coronado      |
-   |------------|-------------|
-   | <a href="https://linkedin.com/in/manuel-rueda-álvaro-8422b1141"> <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="150"> | <a href="https://linkedin.com/in/jos%C3%A9-javier-calder%C3%B3n-coronado-698b41b1/"> <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="150"> |
+   <table><tr>
+   <td> 
+      <p align="center" style="padding: 10px">
+         <a href="https://linkedin.com/in/manuel-rueda-álvaro-8422b1141">
+         <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="150">
+      <br>
+         <em style="color: grey">Linkedin<br>Manuel Rueda Álvaro</em>
+      </p> 
+   </td>
+   <td> 
+      <p align="center" style="padding: 10px">
+         <a href="https://linkedin.com/in/jos%C3%A9-javier-calder%C3%B3n-coronado-698b41b1/">
+         <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="150">
+      <br>
+         <em style="color: grey">Linkedin<br>Javier Calderón Coronado</em>
+      </p> 
+   </td>
+   </tr></table>
 </div>
 
 ¡Esperemos que os haya sido útil !
