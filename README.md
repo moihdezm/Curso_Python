@@ -9,7 +9,7 @@ La estructura del curso es eminentemente práctica, enfocando al alumno a la rea
 
 Veamos ahora cómo se irán distribuyendo estos **notebooks** según el tema que tratemos:
 
-* **Python Básico:** 
+### **Python Básico:** 
 
 <div align="center">
    <a href="https://github.com/AfiQuants/Curso_Python/tree/main/1.%20Python_Basico/">
@@ -25,7 +25,7 @@ En esta parte del curso veremos los elementos básicos del lenguaje y daremos lo
    * [Funciones y Modulos](1.%20Python_Basico/4.Funciones%20y%20modulos.ipynb)
    * [Trabajo con ficheros](1.%20Python_Basico/5.Trabajo%20con%20ficheros.ipynb)
     
-* **Numpy:** 
+### **Numpy:** 
 
 <div align="center">
    <a href="https://github.com/AfiQuants/Curso_Python/tree/main/2.%20Numpy/">
