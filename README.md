@@ -136,5 +136,4 @@ En caso de cualquier duda o aclaración adicional, podéis contactar con nosotro
 
 <div align="center">
    <img src="https://blog.sagitaz.com/wp-content/uploads/2015/11/gracias.jpg">
-   </a>
 </div>
