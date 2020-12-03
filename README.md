@@ -60,11 +60,51 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
    * [**Preparación y Exploración de datos**](3.%20Pandas/4.%20Preparación%20y%20exploración%20de%20datos.ipynb)
  
  ## Ejercicios
- A lo largo de estos módulos se han inrtoducido
+ A lo largo de estos módulos se han introducido varios **conceptos** y podéis haberlo seguido a lo largo de los distintos **notebooks** proporcionados.
+ No obstante, siempre es de agradecer la existencia de algún **ejercicio para practicar**; podéis encontrar los ejecicios para cada módulo en las siguientes carpetas:
  
+   * [**Python Básico**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/1.%20Python%20b%C3%A1sico)
+   * [**Numpy**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/2.%20Numpy)
+   * [**Pandas**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/3.%20Pandas)
+ 
+ Además, os propondremos un **proyecto final**, el cual se colgará *próximamente*.
  
  ## Material Adicional
+ Además del material proporcionado, podemos recomendar la realización de **distintos cursos**, como son los siguientes (sin ningún orden de preferencia):
  
+   #### Cursos Gratuitos
+   * [**Python and Statistics for Financial Analysis**](https://es.coursera.org/learn/python-statistics-financial-analysis)
+   * [**Python Programming: A Concise Introduction**](https://es.coursera.org/learn/python-programming-introduction)
+   * [**Data Processing Using Python**](https://es.coursera.org/learn/python-data-processing)
+   
+>*Cabe destacar que en muchos de ellos se repetirán temas ofrecidos aquí, o se tratarán de manera distinta.*
+
+   #### Proyectos Guiados
+   * [**Pandas Python Library for Beginners in Data Science**](https://es.coursera.org/projects/pandas-python-library-beginners-data-science)
+   * [**Statistical Analysis using Python Numpy**](https://es.coursera.org/projects/statistical-analysis-using-python-numpy)
+   
+Por último, queremos recomendaros que, para cualquier duda que podáis tener, uséis los **omnipotentes**:
+
+<table><tr>
+<td> 
+   <p align="center" style="padding: 10px">
+      <a href="https://www.google.com/">
+      <img src="https://www.google.es/images/branding/googlelogo/2x/googlelogo_color_160x56dp.png" width="320">
+   <br>
+      <em style="color: grey">Google</em>
+   </p> 
+</td>
+<td> 
+   <p align="center" style="padding: 10px">
+      <a href="https://stackoverflow.com/">
+      <img src="https://apifriends.com/wp-content/uploads/2018/04/stackoverflow.png" width="320">
+   <br>
+      <em style="color: grey">StackOverflow</em>
+   </p> 
+</td>
+</tr></table>
+
+Esperamos que todo el contenido os haya resultado de utilidad.
 
 ## Contacta con nosotros
 En caso de cualquier duda o aclaración adicional, podéis contactar con nosotros libremente; nuestros perfiles de **Linkedin**:
