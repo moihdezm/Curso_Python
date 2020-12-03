@@ -63,9 +63,12 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
 ## Contacta con nosotros
 En caso de cualquier duda o aclaración adicional, podéis contactar con nosotros libremente:
 
-| Manuel Rueda Álvaro      | Javier Calderón Coronado      |
-|------------|-------------|
-| <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="250"> | <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="250"> |
+<div align='center'>
+
+   | Manuel Rueda Álvaro      | Javier Calderón Coronado      |
+   |------------|-------------|
+   | <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="150"> | <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="150"> |
+</div>
 
 ¡Esperemos que os haya sido útil !
 
