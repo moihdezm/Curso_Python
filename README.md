@@ -67,7 +67,7 @@ En caso de cualquier duda o aclaración adicional, podéis contactar con nosotro
 
    | Manuel Rueda Álvaro      | Javier Calderón Coronado      |
    |------------|-------------|
-   | <a href="https://linkedin.com/in/manuel-rueda-álvaro-8422b1141"> <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="150"> | <a href="https://linkedin.com/in/jos%C3%A9-javier-calder%C3%B3n-coronado-698b41b1/"> <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="150"> |
+   | <a href="https://linkedin.com/in/manuel-rueda-álvaro-8422b1141"> <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="150"> | <a href="https://linkedin.com/in/jos%C3%A9-javier-calder%C3%B3n-coronado-698b41b1/"> <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="100"> |
 </div>
 
 ¡Esperemos que os haya sido útil !
