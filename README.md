@@ -30,7 +30,7 @@ En esta parte del curso veremos los elementos básicos del lenguaje y daremos lo
 
 <div align="center">
    <a href="https://github.com/AfiQuants/Curso_Python/tree/main/2.%20Numpy/">
-   <img src="https://miro.medium.com/max/10944/1*VsLoTh0u7dUgmk7socqO-A.jpeg">
+   <img src="https://bids.berkeley.edu/sites/default/files/styles/400x225/public/projects/numpy_project_page.jpg?itok=flrdydei">
    </a>
 </div>
 
@@ -51,7 +51,11 @@ En esta parte del curso veremos una de las librerías básicas para el análisis
 
 En esta parte del curso veremos una de las librerías básicas para la manipulación de datos en python, **Pandas**; aprenderemos:
 
-   * [Introducción a Numpy](2.%20Numpy/1.%20La%20base%20de%20NumPy%20-%20ndarray.ipynb)
-   * [Operaciones básicas](2.%20Numpy/2.%20Operaciones%20sobre%20ndarrays.ipynb)
-   * [Ficheros](2.%20Numpy/3.%20Entrada%20y%20salida%20de%20ficheros.ipynb)
-   * [Álgebra y Números Aleatorios](2.%20Numpy/4.%20Álgebra%20lineal%20y%20generación%20de%20numeros%20aleatorios.ipynb)
+   * [Introducción a Pandas](3.%20Pandas/1.%20ructuras%20datos.ipynb)
+   * Operaciones básicas:
+      * [Tratamiento de Dataframes](3.%20Pandas/2.1.%20Operaciones%20básicas.ipynb)
+      * [Indexación y Slicing](3.%20Pandas/2.2.%20Operaciones%20básicas.ipynb)
+      * [Construcción de Estructuras](3.%20Pandas/2.3.%20Operaciones%20básicas.ipynb)
+   * [Lectura y Escritura de información](3.%20Pandas/3.%20Lectura%20y%20escritura%20de%20informacion.ipynb)
+   * [Preparación y Exploración de datos](3.%20Pandas/4.%20Preparación%20y%20exploración%20de%20datos.ipynb)
+       
