@@ -59,3 +59,25 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
    * [**Lectura y Escritura de información**](3.%20Pandas/3.%20Lectura%20y%20escritura%20de%20informacion.ipynb)
    * [**Preparación y Exploración de datos**](3.%20Pandas/4.%20Preparación%20y%20exploración%20de%20datos.ipynb)
        
+
+## Contacta con nosotros
+En caso de cualquier duda o aclaración adicional, podéis contactar con nosotros libremente:
+
+<div class="row">
+  <div class="column">
+    <img src="img_snow.jpg" alt="Snow" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_forest.jpg" alt="Forest" style="width:100%">
+  </div>
+  <div class="column">
+    <img src="img_mountains.jpg" alt="Mountains" style="width:100%">
+  </div>
+</div>
+
+¡Esperemos que os haya sido útil !
+
+<div align="center">
+   <img src="https://blog.sagitaz.com/wp-content/uploads/2015/11/gracias.jpg">
+   </a>
+</div>
