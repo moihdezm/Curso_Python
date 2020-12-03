@@ -1,11 +1,11 @@
 # Curso Python
 
-Para el seguimiento de este curso, recomendamos la instalación de [anaconda](https://www.anaconda.com/).
-Dependiendo de vuestro sistema operativo, deberéis elegir la instalación correspondiente y seguir los pasos indicados en el siguiente [link](https://docs.anaconda.com/anaconda/install/)
+Para el seguimiento de este curso, recomendamos la instalación de [**anaconda**](https://www.anaconda.com/).
+Dependiendo de vuestro **sistema operativo**, deberéis elegir la instalación correspondiente y seguir los pasos indicados en el siguiente [**link**](https://docs.anaconda.com/anaconda/install/).
 
 ## Estructura del Curso
 
-La estructura del curso es eminentemente práctica, enfocando al alumno a la realización de diversos ejercicios para afianzar las ideas que se irán desarrollando a lo largo de distintos [jupyter notebooks](https://jupyter.org/).
+La estructura del curso es eminentemente práctica, enfocando al alumno a la realización de diversos ejercicios para afianzar las ideas que se irán desarrollando a lo largo de distintos [**jupyter notebooks**](https://jupyter.org/); recomendamos que, si queréis seguir el curso de manera **local**, modificar los ficheros y probar los ejemplos por vosotros mismos, os [**descarguéis el repositorio**](https://github.com/AfiQuants/Curso_Python/archive/main.zip)
 
 Veamos ahora cómo se irán distribuyendo estos **notebooks** según el tema que tratemos:
 
@@ -58,10 +58,16 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
       * [**Construcción de Estructuras**](3.%20Pandas/2.3.%20Operaciones%20básicas.ipynb)
    * [**Lectura y Escritura de información**](3.%20Pandas/3.%20Lectura%20y%20escritura%20de%20informacion.ipynb)
    * [**Preparación y Exploración de datos**](3.%20Pandas/4.%20Preparación%20y%20exploración%20de%20datos.ipynb)
-       
+ 
+ ## Ejercicios
+ A lo largo de estos módulos se han inrtoducido
+ 
+ 
+ ## Material A
+ 
 
 ## Contacta con nosotros
-En caso de cualquier duda o aclaración adicional, podéis contactar con nosotros libremente:
+En caso de cualquier duda o aclaración adicional, podéis contactar con nosotros libremente; nuestros perfiles de **Linkedin**:
 
 <div align='center'>
 
