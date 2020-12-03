@@ -19,9 +19,9 @@ Veamos ahora cómo se irán distribuyendo estos **notebooks** según el tema que
 
 En esta parte del curso veremos los elementos básicos del lenguaje y daremos los primeros pasos con el mismo; aprenderemos:
 
-* [Sintaxis y Elementos básicos](1.%20Python_Basico/1.Sintaxis%20y%20elementos%20basicos.ipynb)
-* [Estructuras de datos](1. Python_Basico/2.Estructuras de datos.ipynb)
-* [Estructuras de control](1. Python_Basico/3.Estructuras de control.ipynb)
-* [Funciones y Modulos](1. Python_Basico/4.Funciones y modulos.ipynb)
-* [Trabajo con ficheros](1. Python_Basico/5.Trabajo con ficheros.ipynb)
+   * [Sintaxis y Elementos básicos](1.%20Python_Basico/1.Sintaxis%20y%20elementos%20basicos.ipynb)
+   * [Estructuras de datos](1.%20Python_Basico/2.Estructuras%20de%20datos.ipynb)
+   * [Estructuras de control](1.%20Python_Basico/3.Estructuras%20de%20control.ipynb)
+   * [Funciones y Modulos](1.%20Python_Basico/4.Funciones%20y%20modulos.ipynb)
+   * [Trabajo con ficheros](1.%20Python_Basico/5.Trabajo%20con%20ficheros.ipynb)
     
