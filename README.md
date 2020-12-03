@@ -24,6 +24,7 @@ En esta parte del curso veremos los elementos básicos del lenguaje y daremos lo
    * [Estructuras de control](1.%20Python_Basico/3.Estructuras%20de%20control.ipynb)
    * [Funciones y Modulos](1.%20Python_Basico/4.Funciones%20y%20modulos.ipynb)
    * [Trabajo con ficheros](1.%20Python_Basico/5.Trabajo%20con%20ficheros.ipynb)
+   
     
 ### **Numpy:** 
 
@@ -40,3 +41,17 @@ En esta parte del curso veremos una de las librerías básicas para el análisis
    * [Ficheros](2.%20Numpy/3.%20Entrada%20y%20salida%20de%20ficheros.ipynb)
    * [Álgebra y Números Aleatorios](2.%20Numpy/4.%20Álgebra%20lineal%20y%20generación%20de%20numeros%20aleatorios.ipynb)
     
+### **Pandas:** 
+
+<div align="center">
+   <a href="https://github.com/AfiQuants/Curso_Python/tree/main/3.%20Pandas/">
+   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-tHuIMswK4H-VjtPuTBSS07lSya4YNeh3FQ&usqp=CAU">
+   </a>
+</div>
+
+En esta parte del curso veremos una de las librerías básicas para la manipulación de datos en python, **Pandas**; aprenderemos:
+
+   * [Introducción a Numpy](2.%20Numpy/1.%20La%20base%20de%20NumPy%20-%20ndarray.ipynb)
+   * [Operaciones básicas](2.%20Numpy/2.%20Operaciones%20sobre%20ndarrays.ipynb)
+   * [Ficheros](2.%20Numpy/3.%20Entrada%20y%20salida%20de%20ficheros.ipynb)
+   * [Álgebra y Números Aleatorios](2.%20Numpy/4.%20Álgebra%20lineal%20y%20generación%20de%20numeros%20aleatorios.ipynb)
