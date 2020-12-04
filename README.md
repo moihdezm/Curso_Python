@@ -116,7 +116,7 @@ En caso de cualquier duda o aclaración adicional, podéis contactar con nosotro
    <td> 
       <p align="center" style="padding: 10px">
          <a href="https://linkedin.com/in/manuel-rueda-álvaro-8422b1141">
-         <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png" width="150">
+         <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Manuel_Rueda.png?token=8107c3ee213a3426b04c954653634074e0ef24ca" width="150">
       <br>
          <em style="color: grey">Linkedin<br>Manuel Rueda Álvaro</em>
       </p> 
@@ -124,7 +124,7 @@ En caso de cualquier duda o aclaración adicional, podéis contactar con nosotro
    <td> 
       <p align="center" style="padding: 10px">
          <a href="https://linkedin.com/in/jos%C3%A9-javier-calder%C3%B3n-coronado-698b41b1/">
-         <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png" width="150">
+         <img src="https://github.com/mlrueda/My_Private/blob/main/Images/Javier_Calderon.png?token=8107c3ee213a3426b04c954653634074e0ef24ca" width="150">
       <br>
          <em style="color: grey">Linkedin<br>Javier Calderón<br> Coronado</em>
       </p> 
