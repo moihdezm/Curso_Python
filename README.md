@@ -58,6 +58,19 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
       * [**Construcción de Estructuras**](3.%20Pandas/2.3.%20Operaciones%20básicas.ipynb)
    * [**Lectura y Escritura de información**](3.%20Pandas/3.%20Lectura%20y%20escritura%20de%20informacion.ipynb)
    * [**Preparación y Exploración de datos**](3.%20Pandas/4.%20Preparación%20y%20exploración%20de%20datos.ipynb)
+   
+### **Descarga de Datos:** 
+
+<div align="center">
+   <a href="https://github.com/AfiQuants/Curso_Python/tree/main/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/">
+   <img src="https://www.antevenio.com/wp-content/uploads/2019/03/web.jpeg">
+   </a>
+</div>
+
+En esta parte del curso veremos formas de obtener datos directamente de la web; aprenderemos:
+
+   * [**Introducción a Pandas Datareader**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/1.%20Pandas%20DataReader.ipynb)
+   * [**Web Scraping a través de BeautifulSoup y Selenium**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/2.%20Web%20Scraping.ipynb)
  
  ## Ejercicios
  A lo largo de estos módulos se han introducido varios **conceptos** y podéis haberlo seguido a lo largo de los distintos **notebooks** proporcionados.
@@ -66,6 +79,7 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
    * [**Python Básico**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/1.%20Python%20b%C3%A1sico)
    * [**Numpy**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/2.%20Numpy)
    * [**Pandas**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/3.%20Pandas)
+   * [**Descarga de Datos**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping)
  
  Además, os propondremos un **proyecto final**, el cual se colgará *próximamente*.
  
