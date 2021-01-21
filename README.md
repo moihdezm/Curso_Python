@@ -63,7 +63,7 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
 
 <div align="center">
    <a href="https://github.com/AfiQuants/Curso_Python/tree/main/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/">
-   <img src="https://www.antevenio.com/wp-content/uploads/2019/03/web.jpeg" width="200" height="200">
+   <img src="https://www.octoparse.es/media/6720/001-efficient-web-scraping.png">
    </a>
 </div>
 
