@@ -63,10 +63,25 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
    
 ### **Visualización:** 
 
-<div align="center">
-   <a href="https://github.com/AfiQuants/Curso_Python/tree/main/4.%20Visualizaci%C3%B3n/">
-   <img src="https://matplotlib.org/_static/logo2_compressed.svg">
-   </a>
+<div align='center'>
+   <table><tr>
+   <td> 
+      <p align="center" style="padding: 10px">
+         <a href="https://github.com/AfiQuants/Curso_Python/blob/main/4.%20Visualizaci%C3%B3n/1.Matplotlib.ipynb">
+         <img src="https://matplotlib.org/_static/logo2_compressed.svg" width="320">
+      <br>
+         <em style="color: grey">Matplotlib</em>
+      </p> 
+   </td>
+   <td> 
+      <p align="center" style="padding: 10px">
+         <a href="https://github.com/AfiQuants/Curso_Python/blob/main/4.%20Visualizaci%C3%B3n/2.Plotly.ipynb">
+         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/220px-Plotly-logo-01-square.png" width="320">
+      <br>
+         <em style="color: grey">Plotly</em>
+      </p> 
+   </td>
+   </tr></table>
 </div>
 
 Como en todo software, una de las partes más importantes y báscias es saber hacer gráficos. Veremos las principales librerías que existen actualmente, como son:
