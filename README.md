@@ -3,7 +3,7 @@
 Para el seguimiento de este curso, recomendamos la instalación de [**anaconda**](https://www.anaconda.com/).
 Dependiendo de vuestro **sistema operativo**, deberéis elegir la instalación correspondiente y seguir los pasos indicados en el siguiente [**link**](https://docs.anaconda.com/anaconda/install/).
 
-Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [Google Colab](https://colab.research.google.com), en la cual podemos trabajar con los archivos de Google Drive cómodamente.
+Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [**Google Colab**](https://colab.research.google.com), en la cual podemos trabajar con los archivos de Google Drive cómodamente.
 
 ## Estructura del Curso
 
@@ -81,6 +81,7 @@ En esta parte del curso veremos formas de obtener datos directamente de la web; 
    * [**Python Básico**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/1.%20Python%20b%C3%A1sico)
    * [**Numpy**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/2.%20Numpy)
    * [**Pandas**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/3.%20Pandas)
+   * [**Visualización**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/4.%20Visualización)
    * [**Descarga de Datos**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping)
  
  Además, os propondremos un **proyecto final**, el cual se colgará *próximamente*.
