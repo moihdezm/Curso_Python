@@ -3,6 +3,8 @@
 Para el seguimiento de este curso, recomendamos la instalación de [**anaconda**](https://www.anaconda.com/).
 Dependiendo de vuestro **sistema operativo**, deberéis elegir la instalación correspondiente y seguir los pasos indicados en el siguiente [**link**](https://docs.anaconda.com/anaconda/install/).
 
+Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [Google Colab](https://colab.research.google.com), en la cual podemos trabajar con los archivos de Google Drive cómodamente.
+
 ## Estructura del Curso
 
 La estructura del curso es eminentemente práctica, enfocando al alumno a la realización de diversos ejercicios para afianzar las ideas que se irán desarrollando a lo largo de distintos [**jupyter notebooks**](https://jupyter.org/); recomendamos que, si queréis seguir el curso de manera **local**, modificar los ficheros y probar los ejemplos por vosotros mismos, os [**descarguéis el repositorio**](https://github.com/AfiQuants/Curso_Python/archive/main.zip)
