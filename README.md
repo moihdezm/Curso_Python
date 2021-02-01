@@ -3,7 +3,7 @@
 Para el seguimiento de este curso, recomendamos la instalación de [**anaconda**](https://www.anaconda.com/).
 Dependiendo de vuestro **sistema operativo**, deberéis elegir la instalación correspondiente y seguir los pasos indicados en el siguiente [**link**](https://docs.anaconda.com/anaconda/install/).
 
-Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [**Google Colab**](https://colab.research.google.com), en la cual podemos trabajar con los archivos de Google Drive cómodamente.
+Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [**Google Colab**](https://colab.research.google.com), en la cual podemos interactuar con nuestros archivos de Google Drive cómodamente.
 
 ## Estructura del Curso
 
@@ -60,6 +60,20 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
       * [**Construcción de Estructuras**](3.%20Pandas/2.3.%20Operaciones%20básicas.ipynb)
    * [**Lectura y Escritura de información**](3.%20Pandas/3.%20Lectura%20y%20escritura%20de%20informacion.ipynb)
    * [**Preparación y Exploración de datos**](3.%20Pandas/4.%20Preparación%20y%20exploración%20de%20datos.ipynb)
+   
+### **Visualización:** 
+
+<div align="center">
+   <a href="https://github.com/AfiQuants/Curso_Python/tree/main/4.%20Visualizaci%C3%B3n/">
+   <img src="https://matplotlib.org/_static/logo2_compressed.svg">
+   </a>
+</div>
+
+Como en todo software, una de las partes más importantes y báscias es saber hacer gráficos. Veremos las principales librerías que existen actualmente, como son:
+
+   * [**Matplotlib**](4.%20Visualización/1.Matplotlib.ipynb)
+   * [**Plotly**](4.%20Visualización/2.Plotly.ipynb)
+   * [**Seaborn y Altair**](4.%20Visualización/3.Seaborn_y_Altair.ipynb)
    
 ### **Descarga de Datos:** 
 
