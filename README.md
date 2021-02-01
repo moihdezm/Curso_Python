@@ -110,9 +110,7 @@ En esta parte del curso veremos formas de obtener datos directamente de la web; 
    * [**Pandas**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/3.%20Pandas)
    * [**Visualización**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/4.%20Visualización)
    * [**Descarga de Datos**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping)
- 
- Además, os propondremos un **proyecto final**, el cual se colgará *próximamente*.
- 
+  
  ## Material Adicional
  Además del material proporcionado, podemos recomendar la realización de **distintos cursos**, como son los siguientes (sin ningún orden de preferencia):
  
