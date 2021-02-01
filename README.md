@@ -75,7 +75,7 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
    <td> 
       <p align="center">
          <a href="https://github.com/AfiQuants/Curso_Python/blob/main/4.%20Visualizaci%C3%B3n/2.Plotly.ipynb">
-         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Plotly-logo-01-square.png/220px-Plotly-logo-01-square.png" width="320">
+         <img src="https://images.prismic.io/plotly-marketing-website/bd1f702a-b623-48ab-a459-3ee92a7499b4_logo-plotly.svg?auto=compress,format" width="320">
       <br>
       </p> 
    </td>
