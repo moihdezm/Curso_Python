@@ -3,7 +3,7 @@
 Para el seguimiento de este curso, recomendamos la instalación de [**anaconda**](https://www.anaconda.com/).
 Dependiendo de vuestro **sistema operativo**, deberéis elegir la instalación correspondiente y seguir los pasos indicados en el siguiente [**link**](https://docs.anaconda.com/anaconda/install/).
 
-Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [**Google Colab**](https://colab.research.google.com), en la cual podemos interactuar con nuestros archivos de Google Drive cómodamente.
+Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [**Google Colab**](https://colab.research.google.com), en la cual podemos interactuar con nuestros archivos de Google Drive y URL de GitHub cómodamente.
 
 ## Estructura del Curso
 
