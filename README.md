@@ -5,6 +5,16 @@ Dependiendo de vuestro **sistema operativo**, deberéis elegir la instalación c
 
 Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad de descargar ningún software. Se trata de la plataforma [**Google Colab**](https://colab.research.google.com), en la cual podemos interactuar con nuestros archivos de Google Drive y URL de GitHub cómodamente.
 
+Al acceder a Google Colab, nos mostrará inmediatamente una pantalla como ésta:
+<div align="center">
+   <img src="https://bebi103a.github.io/_images/colab_splash.png">
+</div>
+ 
+ en la que, si pincháis en el apartado de **GitHub**, aparecerá un buscador de URL y podéis poner ésta misma dirección en él y aparecerán todos los notebooks que están recogidos en este curso.
+ 
+ Por último, comentar que GitHub suele tener problemas al cargar algunos notebooks en web, por lo que, cuando suceda ésto, podemos copiar la dirección web y pegarla en la página de [**nbviewer**](https://nbviewer.jupyter.org/). 
+ 
+
 ## Estructura del Curso
 
 La estructura del curso es eminentemente práctica, enfocando al alumno a la realización de diversos ejercicios para afianzar las ideas que se irán desarrollando a lo largo de distintos [**jupyter notebooks**](https://jupyter.org/); recomendamos que, si queréis seguir el curso de manera **local**, modificar los ficheros y probar los ejemplos por vosotros mismos, os [**descarguéis el repositorio**](https://github.com/AfiQuants/Curso_Python/archive/main.zip)
