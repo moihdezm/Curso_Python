@@ -7,7 +7,7 @@ Igualmente, Google tiene una plataforma para trabajar con Python sin necesidad d
 
 Al acceder a Google Colab, nos mostrará inmediatamente una pantalla como ésta:
 <div align="center">
-   <img src="https://bebi103a.github.io/_images/colab_splash.png" width="320">
+   <img src="https://bebi103a.github.io/_images/colab_splash.png" width="400">
 </div>
  
  en la que, si pincháis en el apartado de **GitHub**, aparecerá un buscador de URL y podéis poner ésta misma dirección en él y aparecerán todos los notebooks que están recogidos en este curso.
