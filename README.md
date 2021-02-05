@@ -10,9 +10,9 @@ Al acceder a Google Colab, nos mostrará inmediatamente una pantalla como ésta:
    <img src="https://bebi103a.github.io/_images/colab_splash.png" width="600">
 </div>
  
- en la que, si pincháis en el apartado de **GitHub**, aparecerá un buscador de URL y podéis poner ésta misma dirección en él y aparecerán todos los notebooks que están recogidos en este curso.
+ en la que, si pincháis en el apartado de **GitHub**, aparecerá un buscador de URL y podéis poner esta misma dirección en él y aparecerán todos los notebooks que están recogidos en este curso.
  
- Por último, comentar que GitHub suele tener problemas al cargar algunos notebooks en web, por lo que, cuando suceda ésto, podemos copiar la dirección web y pegarla en la página de [**nbviewer**](https://nbviewer.jupyter.org/). 
+ Por último, comentar que GitHub suele tener problemas al cargar algunos notebooks en web, por lo que, cuando suceda esto, podemos copiar la dirección web y pegarla en la página de [**nbviewer**](https://nbviewer.jupyter.org/). 
  
 
 ## Estructura del Curso
