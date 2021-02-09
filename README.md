@@ -71,6 +71,20 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
    * [**Lectura y Escritura de información**](3.%20Pandas/3.%20Lectura%20y%20escritura%20de%20informacion.ipynb)
    * [**Preparación y Exploración de datos**](3.%20Pandas/4.%20Preparación%20y%20exploración%20de%20datos.ipynb)
    
+   
+### **Descarga de Datos:** 
+
+<div align="center">
+   <a href="https://github.com/AfiQuants/Curso_Python/tree/main/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/">
+   <img src="https://www.octoparse.es/media/6720/001-efficient-web-scraping.png">
+   </a>
+</div>
+
+En esta parte del curso veremos formas de obtener datos directamente de la web; aprenderemos:
+
+   * [**Introducción a Pandas Datareader**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/1.%20Pandas%20DataReader.ipynb)
+   * [**Web Scraping a través de BeautifulSoup y Selenium**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/2.%20Web%20Scraping.ipynb)
+
 ### **Visualización:** 
 
 <div align='center'>
@@ -97,19 +111,6 @@ Como en todo software, una de las partes más importantes y báscias es saber ha
    * [**Matplotlib**](4.%20Visualización/1.Matplotlib.ipynb)
    * [**Plotly**](4.%20Visualización/2.Plotly.ipynb)
    * [**Seaborn y Altair**](4.%20Visualización/3.Seaborn_y_Altair.ipynb)
-   
-### **Descarga de Datos:** 
-
-<div align="center">
-   <a href="https://github.com/AfiQuants/Curso_Python/tree/main/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/">
-   <img src="https://www.octoparse.es/media/6720/001-efficient-web-scraping.png">
-   </a>
-</div>
-
-En esta parte del curso veremos formas de obtener datos directamente de la web; aprenderemos:
-
-   * [**Introducción a Pandas Datareader**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/1.%20Pandas%20DataReader.ipynb)
-   * [**Web Scraping a través de BeautifulSoup y Selenium**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/2.%20Web%20Scraping.ipynb)
  
  ## Ejercicios
  A lo largo de estos módulos se han introducido varios **conceptos** y podéis haberlo seguido a lo largo de los distintos **notebooks** proporcionados.
