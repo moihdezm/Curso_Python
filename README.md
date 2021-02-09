@@ -82,8 +82,8 @@ En esta parte del curso veremos una de las librerías básicas para la manipulac
 
 En esta parte del curso veremos formas de obtener datos directamente de la web; aprenderemos:
 
-   * [**Introducción a Pandas Datareader**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/1.%20Pandas%20DataReader.ipynb)
-   * [**Web Scraping a través de BeautifulSoup y Selenium**](5.%20Descarga%20de%20Datos%20-%20Web%20Scraping/2.%20Web%20Scraping.ipynb)
+   * [**Introducción a Pandas Datareader**](4.%20Descarga%20de%20Datos%20-%20Web%20Scraping/1.%20Pandas%20DataReader.ipynb)
+   * [**Web Scraping a través de BeautifulSoup y Selenium**](4.%20Descarga%20de%20Datos%20-%20Web%20Scraping/2.%20Web%20Scraping.ipynb)
 
 ### **Visualización:** 
 
@@ -108,9 +108,9 @@ En esta parte del curso veremos formas de obtener datos directamente de la web; 
 
 Como en todo software, una de las partes más importantes y báscias es saber hacer gráficos. Veremos las principales librerías que existen actualmente, como son:
 
-   * [**Matplotlib**](4.%20Visualización/1.Matplotlib.ipynb)
-   * [**Plotly**](4.%20Visualización/2.Plotly.ipynb)
-   * [**Seaborn y Altair**](4.%20Visualización/3.Seaborn_y_Altair.ipynb)
+   * [**Matplotlib**](5.%20Visualización/1.Matplotlib.ipynb)
+   * [**Plotly**](5.%20Visualización/2.Plotly.ipynb)
+   * [**Seaborn y Altair**](5.%20Visualización/3.Seaborn_y_Altair.ipynb)
  
  ## Ejercicios
  A lo largo de estos módulos se han introducido varios **conceptos** y podéis haberlo seguido a lo largo de los distintos **notebooks** proporcionados.
@@ -119,8 +119,8 @@ Como en todo software, una de las partes más importantes y báscias es saber ha
    * [**Python Básico**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/1.%20Python%20b%C3%A1sico)
    * [**Numpy**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/2.%20Numpy)
    * [**Pandas**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/3.%20Pandas)
-   * [**Visualización**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/4.%20Visualización)
-   * [**Descarga de Datos**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/5.%20Descarga%20de%20Datos%20-%20Web%20Scraping)
+   * [**Descarga de Datos**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/4.%20Descarga%20de%20Datos%20-%20Web%20Scraping)
+   * [**Visualización**](https://github.com/AfiQuants/Curso_Python/tree/main/Ejercicios/5.%20Visualización)   
   
  ## Material Adicional
  Además del material proporcionado, podemos recomendar la realización de **distintos cursos**, como son los siguientes (sin ningún orden de preferencia):
